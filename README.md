@@ -1,1 +1,1 @@
-# coosblog
+# coos-blog
